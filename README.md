@@ -1,49 +1,41 @@
-## Hello World 
+## 👋 About Me
 
-###
+🌐 I'm currently interested in **Cloud Technologies** and exploring how they can transform applications and systems.
 
-<p align="left">My name is Abhiram Chilakamarri and I'm a Computer Science student!</p>
+👯 I love collaborating on **Open Source Projects**, especially those involving machine learning, Android development, and full-stack applications.
 
-###
+🎓 I'm pursuing my **Bachelor of Science in Computer Science** at Georgia Tech (GPA: 3.77/4.0), with coursework focused on Data Structures & Algorithms, Database Systems, AI, and more.
 
-<h2 align="left">About me</h2>
+✨ Currently interning on an **AI-powered crowdsourcing platform** at Vertically Integrated Projects, leveraging PyTorch and RESTful APIs to build intelligent matchmaking solutions.
 
-###
+📚 **Teaching Assistant** at Georgia Tech, helping students master Python and foundational computer science concepts.
 
-<p align="left">✨ Creating solutions and solving problems with code since 2021<br>📚 I'm currently learning Data Structures, Machine Learning, and Android Development<br>🎯 Goals: To work as a Software Engineer at Amazon and contribute to impactful projects<br>🎲 Fun fact: I'm a huge fan of exploring new technologies and learning new programming languages!</p>
+🚀 **Projects I've Worked On:**
+- **Smart Loan Evaluator:** Built predictive neural network models using Python, PyTorch, and Flask, paired with intuitive front-end visualizations.
+- **WanderSync:** Developed a full-stack Android app for seamless travel planning, using Firebase for real-time collaboration.
+- **iTunes Gallery:** Designed and implemented a JavaFX app integrated with the iTunes API to visually explore music.
 
-###
+🎲 Fun fact: I can solve a Rubik’s Cube in less than 15 seconds!
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-</div>
+### Languages
+- Python | Java | JavaScript | C++ | HTML/CSS | SQL | Kotlin | MATLAB | R | LaTeX
 
-###
-<!--
-**abhiramchil/abhiramchil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frameworks & Libraries
+- PyTorch | Flask | Django | Angular | React | JavaFX
+- Pandas | NumPy | Matplotlib | GeoPandas
 
-Here are some ideas to get you started:
+### Tools & Platforms
+- Firebase | Firestore | Git | GitHub | Node.js | Docker | Emacs | Slack
+- Amazon AWS | Microsoft Azure | Visual Studio | Android Studio
 
-- 🔭 I’m currently working on a Machine Learning project to analyze bank statements and determine loan eligibility.
-- 🌱 I’m currently learning more about Android development, AI cognitive modules, and data analysis techniques.
-- 👯 I’m looking to collaborate on projects involving AI, machine learning, and Android development.
-- 🤔 I’m looking for help with optimizing algorithms for large datasets and machine learning models.
-- 💬 Ask me about Firebase, machine learning, or Android development.
-- 📫 How to reach me: Email me at abhiramch@gt.edu.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I’ve worked on both backend systems and AI-powered applications, and I’m always excited to take on new challenges!
--->
+---
+
+📫 **Reach me at:** [abhiram.chilak@gmail.com](mailto:abhiram.chilak@gmail.com)
+
+🌐 **Portfolio:** [abhiramchil.github.io](https://abhiramchil.github.io/)  
+
+🔗 **LinkedIn:** [linkedin.com/in/abhiram-chilakamarri](https://www.linkedin.com/in/abhiram-chilakamarri/)
