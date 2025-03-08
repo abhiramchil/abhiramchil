@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=pandas&logoColor=white" height="35"/> 
   <img src="https://img.shields.io/badge/Fiona-5A8E8C?style=for-the-badge&logo=python&logoColor=white" height="35"/> 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="35"/> 
 </div>
 
 ###
