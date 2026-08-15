@@ -26,6 +26,20 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramchil&layout=compact&langs_count=8" />
+</div>
+
+<br>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiramchil&show_icons=true" />
+</div>
+
+---
+
 📫 **Reach me at:** [abhiram.chilak@gmail.com](mailto:abhiram.chilak@gmail.com)
 
 🌐 **Portfolio:** [abhiramchil.github.io](https://abhiramchil.github.io/)  
