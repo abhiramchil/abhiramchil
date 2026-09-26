@@ -32,4 +32,6 @@
 
 🔗 **LinkedIn:** [linkedin.com/in/abhiram-chilakamarri](https://www.linkedin.com/in/abhiramchil/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramchil&layout=compact&langs_count=8)
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramchil&layout=compact&theme=github_dark)
