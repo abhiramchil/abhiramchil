@@ -27,24 +27,24 @@
 ---
 
 <table>
-  <tr>
-    <td valign="middle" width="60%">
-      📫 <b>Reach me at:</b>
-      <a href="mailto:abhiram.chilak@gmail.com">abhiram.chilak@gmail.com</a>
-      <br><br>
+<tr>
+<td valign="middle" width="60%">
+  📫 <b>Reach me at:</b>
+  <a href="mailto:abhiram.chilak@gmail.com">abhiram.chilak@gmail.com</a>
+  <br><br>
 
-      🌐 <b>Portfolio:</b>
-      <a href="https://abhiramchil.github.io">abhiramchil.github.io</a>
-      <br><br>
+  🌐 <b>Portfolio:</b>
+  <a href="https://abhiramchil.github.io">abhiramchil.github.io</a>
+  <br><br>
 
-      🔗 <b>LinkedIn:</b>
-      <a href="https://linkedin.com/in/abhiram-chilakamarri">linkedin.com/in/abhiram-chilakamarri</a>
-      <br><br>
+  🔗 <b>LinkedIn:</b>
+  <a href="https://linkedin.com/in/abhiram-chilakamarri">linkedin.com/in/abhiram-chilakamarri</a>
+  <br><br>
 
-      :godmode: <b>LeetGod:</b>
-      <a href="https://leetcode.com/u/abhiramchilak/">leetcode.com/u/abhiramchilak</a>
-    </td>
-
+  <img src="https://github.githubassets.com/images/icons/emoji/godmode.png?v8" width="20" height="20">
+  <b>LeetGod:</b>
+  <a href="https://leetcode.com/u/abhiramchilak/">leetcode.com/u/abhiramchilak</a>
+</td>
     <td valign="middle" align="center" width="40%">
       <img
         src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg1OHRmZHM3Zjk2cmV3Z2J4Z2M1dHBsY2s1NzlvejR0bnAzM3k1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B2CxNosDKhYiY/giphy.gif"
