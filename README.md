@@ -28,14 +28,24 @@
 
 <table>
   <tr>
-    <td valign="middle">
-      📫 <b>Reach me at:</b> <a href="mailto:abhiram.chilak@gmail.com">abhiram.chilak@gmail.com</a><br><br>
-      🌐 <b>Portfolio:</b> <a href="https://abhiramchil.github.io">abhiramchil.github.io</a><br><br>
-      🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/abhiram-chilakamarri">linkedin.com/in/abhiram-chilakamarri</a>
-      :godmode: <b>LeetGod:</b> <a href="[https://linkedin.com/in/abhiram-chilakamarri](https://leetcode.com/u/abhiramchilak/)">https://leetcode.com/abhiramchilak/</a>
-    </td>
+<td valign="middle">
+  📫 <b>Reach me at:</b>
+  <a href="mailto:abhiram.chilak@gmail.com">abhiram.chilak@gmail.com</a>
+  <br><br>
+
+  🌐 <b>Portfolio:</b>
+  <a href="https://abhiramchil.github.io">abhiramchil.github.io</a>
+  <br><br>
+
+  🔗 <b>LinkedIn:</b>
+  <a href="https://linkedin.com/in/abhiram-chilakamarri">linkedin.com/in/abhiram-chilakamarri</a>
+  <br><br>
+
+  :godmode: <b>LeetGod:</b>
+  <a href="https://leetcode.com/u/abhiramchilak/">leetcode.com/u/abhiramchilak</a>
+</td>
     <td valign="middle">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg1OHRmZHM3Zjk2cmV3Z2J4Z2M1dHBsY2s1NzlvejR0bnAzM3k1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B2CxNosDKhYiY/giphy.gif" width="320">
     </td>
   </tr>
-</table>
+</table> :godmode
