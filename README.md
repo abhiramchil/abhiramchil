@@ -26,12 +26,15 @@
 
 ---
 
-📫 **Reach me at:** [abhiram.chilak@gmail.com](mailto:abhiram.chilak@gmail.com)
-
-🌐 **Portfolio:** [abhiramchil.github.io](https://abhiramchil.github.io/)  
-
-🔗 **LinkedIn:** [linkedin.com/in/abhiram-chilakamarri](https://www.linkedin.com/in/abhiramchil/)
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg1OHRmZHM3Zjk2cmV3Z2J4Z2M1dHBsY2s1NzlvejR0bnAzM3k1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B2CxNosDKhYiY/giphy.gif" width="250">
-</div>
+<table>
+  <tr>
+    <td valign="middle">
+      📫 <b>Reach me at:</b> <a href="mailto:abhiram.chilak@gmail.com">abhiram.chilak@gmail.com</a><br><br>
+      🌐 <b>Portfolio:</b> <a href="https://abhiramchil.github.io">abhiramchil.github.io</a><br><br>
+      🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/abhiram-chilakamarri">linkedin.com/in/abhiram-chilakamarri</a>
+    </td>
+    <td valign="middle">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg1OHRmZHM3Zjk2cmV3Z2J4Z2M1dHBsY2s1NzlvejR0bnAzM3k1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B2CxNosDKhYiY/giphy.gif" width="320">
+    </td>
+  </tr>
+</table>
