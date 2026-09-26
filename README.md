@@ -31,3 +31,5 @@
 🌐 **Portfolio:** [abhiramchil.github.io](https://abhiramchil.github.io/)  
 
 🔗 **LinkedIn:** [linkedin.com/in/abhiram-chilakamarri](https://www.linkedin.com/in/abhiramchil/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramchil&layout=compact&langs_count=8)
