@@ -30,4 +30,4 @@
 
 🌐 **Portfolio:** [abhiramchil.github.io](https://abhiramchil.github.io/)  
 
-🔗 **LinkedIn:** [linkedin.com/in/abhiram-chilakamarri](https://www.linkedin.com/in/abhiram-chilakamarri/)
+🔗 **LinkedIn:** [linkedin.com/in/abhiram-chilakamarri](https://www.linkedin.com/in/abhiramchil/)
